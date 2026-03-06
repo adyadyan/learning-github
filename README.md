@@ -5,10 +5,10 @@ This repository holds introductory content on learning GitHub for FCE researcher
 
 Presentation videos:
 
-Introduction to Advanced GitHub Topics and Best Practices presentation from 2026-02-19 (add link and update links below when repo transfered to org)
+[Introduction to Advanced GitHub Topics and Best Practices presentation from 2026-02-19](https://www.youtube.com/watch?v=B4XMVz8GGbQ)
 
 Presentation slides:
 
-[Introduction to Advanced GitHub Topics and Best Practices presentation from 2026-02-19 (PDF)](https://github.com/adyadyan/learning-github/blob/main/presentations/intro-to-advanced-github-topics-and-best-practices-2026-02-19.pdf)
+[Introduction to Advanced GitHub Topics and Best Practices presentation from 2026-02-19 (PDF)](https://github.com/FCE-LTER/learning-github/blob/main/presentations/intro-to-advanced-github-topics-and-best-practices-2026-02-19.pdf)
 
-[Introduction to Advanced GitHub Topics and Best Practices presentation from 2026-02-19 (PowerPoint)](https://github.com/adyadyan/learning-github/blob/main/presentations/intro-to-advanced-github-topics-and-best-practices-2026-02-19.pptx)
+[Introduction to Advanced GitHub Topics and Best Practices presentation from 2026-02-19 (PowerPoint)](https://github.com/FCE-LTER/learning-github/blob/main/presentations/intro-to-advanced-github-topics-and-best-practices-2026-02-19.pptx)
